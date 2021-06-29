@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhay Khandelwal
+- 👋 Hi, I’m Abhay Khandelwal 2nd year computer science student at MNNIT
 - 👀 I’m interested in game devlopment,Web development
-- 🌱 I’m currently learning directx api
+- 🌱 I’m currently learning directx api and web development
 - 📫 How to reach me jaykhandelwal22@gmail.com
 
 <!---
