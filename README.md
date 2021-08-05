@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abhay Khandelwal 2nd year computer science student at MNNIT
-- 👀 I’m interested in game devlopment,Web development
+- 👋 Hi, I’m Abhay Khandelwal 3rd year computer science student at MNNIT
+- 👀 I’m interested in game devlopment,Graphics Programming
 - 🌱 I’m currently learning directx api!
 - 📫 How to reach me jaykhandelwal22@gmail.com
 
